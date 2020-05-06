@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppBDRoom</string>
+    <string name="hint_nombre">Nombre</string>
+    <string name="hint_telefono">Telefono</string>
+</resources>
